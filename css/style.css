@@ -1,0 +1,19 @@
+.mt-100{
+    margin-top: 100px;
+}
+
+.services h3{
+    font-size: 24px;
+}
+
+.social a{
+    color: white;
+    font-size: 30px;
+}
+
+label.error{
+    position: static;
+    color: red;
+    transition: none;
+    font-size: 14px;
+}
